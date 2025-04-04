@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS-Experiments-with-MLFlow/mlruns/256926640050525492/96ea5c33d0a2424f9d69f6670931336f/artifacts
+end_time: 1743745025971
+entry_point_name: ''
+experiment_id: '256926640050525492'
+lifecycle_stage: active
+run_id: 96ea5c33d0a2424f9d69f6670931336f
+run_name: adorable-smelt-72
+run_uuid: 96ea5c33d0a2424f9d69f6670931336f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743745025923
+status: 3
+tags: []
+user_id: ASUS

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS-Experiments-with-MLFlow/mlruns/256926640050525492/15c75675a0c4482a869e103f07b8c560/artifacts
+end_time: 1743745025916
+entry_point_name: ''
+experiment_id: '256926640050525492'
+lifecycle_stage: active
+run_id: 15c75675a0c4482a869e103f07b8c560
+run_name: lyrical-grouse-763
+run_uuid: 15c75675a0c4482a869e103f07b8c560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743745025867
+status: 3
+tags: []
+user_id: ASUS

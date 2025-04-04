@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS-Experiments-with-MLFlow/mlruns/256926640050525492/6527d5893f7b48c2988e2db6e73c240a/artifacts
+end_time: 1743745025422
+entry_point_name: ''
+experiment_id: '256926640050525492'
+lifecycle_stage: active
+run_id: 6527d5893f7b48c2988e2db6e73c240a
+run_name: amusing-seal-852
+run_uuid: 6527d5893f7b48c2988e2db6e73c240a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743745025383
+status: 3
+tags: []
+user_id: ASUS

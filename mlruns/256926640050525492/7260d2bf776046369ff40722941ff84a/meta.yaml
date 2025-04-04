@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS-Experiments-with-MLFlow/mlruns/256926640050525492/7260d2bf776046369ff40722941ff84a/artifacts
+end_time: 1743745025516
+entry_point_name: ''
+experiment_id: '256926640050525492'
+lifecycle_stage: active
+run_id: 7260d2bf776046369ff40722941ff84a
+run_name: marvelous-wolf-302
+run_uuid: 7260d2bf776046369ff40722941ff84a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743745025470
+status: 3
+tags: []
+user_id: ASUS

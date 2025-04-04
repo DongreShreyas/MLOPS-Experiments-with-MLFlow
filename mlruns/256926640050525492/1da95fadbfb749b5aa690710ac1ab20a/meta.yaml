@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS-Experiments-with-MLFlow/mlruns/256926640050525492/1da95fadbfb749b5aa690710ac1ab20a/artifacts
+end_time: 1743745025627
+entry_point_name: ''
+experiment_id: '256926640050525492'
+lifecycle_stage: active
+run_id: 1da95fadbfb749b5aa690710ac1ab20a
+run_name: youthful-crab-708
+run_uuid: 1da95fadbfb749b5aa690710ac1ab20a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743745025580
+status: 3
+tags: []
+user_id: ASUS

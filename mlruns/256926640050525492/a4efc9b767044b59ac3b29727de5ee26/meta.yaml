@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS-Experiments-with-MLFlow/mlruns/256926640050525492/a4efc9b767044b59ac3b29727de5ee26/artifacts
+end_time: 1743745025804
+entry_point_name: ''
+experiment_id: '256926640050525492'
+lifecycle_stage: active
+run_id: a4efc9b767044b59ac3b29727de5ee26
+run_name: unique-koi-22
+run_uuid: a4efc9b767044b59ac3b29727de5ee26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743745025758
+status: 3
+tags: []
+user_id: ASUS
