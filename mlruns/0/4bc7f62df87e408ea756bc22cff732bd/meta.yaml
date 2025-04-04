@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4bc7f62df87e408ea756bc22cff732bd/artifacts
+end_time: 1743738514930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bc7f62df87e408ea756bc22cff732bd
+run_name: abrasive-elk-3
+run_uuid: 4bc7f62df87e408ea756bc22cff732bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743738514673
+status: 3
+tags: []
+user_id: ASUS

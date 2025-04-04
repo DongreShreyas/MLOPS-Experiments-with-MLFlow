@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/302562607479518409/52bf6e790aee4ad697cfd79e9b8283d2/artifacts
+end_time: 1743739035974
+entry_point_name: ''
+experiment_id: '302562607479518409'
+lifecycle_stage: active
+run_id: 52bf6e790aee4ad697cfd79e9b8283d2
+run_name: bustling-seal-517
+run_uuid: 52bf6e790aee4ad697cfd79e9b8283d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743739035715
+status: 3
+tags: []
+user_id: ASUS

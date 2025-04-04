@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ad43024721b741aeaba1f19cb3b5813b/artifacts
+end_time: 1743738045088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad43024721b741aeaba1f19cb3b5813b
+run_name: indecisive-fawn-772
+run_uuid: ad43024721b741aeaba1f19cb3b5813b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743738044977
+status: 3
+tags: []
+user_id: ASUS

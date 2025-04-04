@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/204130767217559911/ca33e2616337495295cab336457e4317/artifacts
+end_time: 1743739086640
+entry_point_name: ''
+experiment_id: '204130767217559911'
+lifecycle_stage: active
+run_id: ca33e2616337495295cab336457e4317
+run_name: merciful-snipe-659
+run_uuid: ca33e2616337495295cab336457e4317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743739086512
+status: 3
+tags: []
+user_id: ASUS

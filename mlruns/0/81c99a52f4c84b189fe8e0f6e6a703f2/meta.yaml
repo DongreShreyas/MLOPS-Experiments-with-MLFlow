@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/81c99a52f4c84b189fe8e0f6e6a703f2/artifacts
+end_time: 1743738290204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81c99a52f4c84b189fe8e0f6e6a703f2
+run_name: aged-trout-422
+run_uuid: 81c99a52f4c84b189fe8e0f6e6a703f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743738290142
+status: 3
+tags: []
+user_id: ASUS
